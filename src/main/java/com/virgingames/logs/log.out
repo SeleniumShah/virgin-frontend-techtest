@@ -1,0 +1,4 @@
+2023-08-17 17:08:111 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[EdgeDriver: msedge on WINDOWS (8a91622efdba0038421ab50e9ae56a90)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-17 17:08:290 INFO  OnlineSlotsPage :25 - Getting text from : [[EdgeDriver: msedge on WINDOWS (8a91622efdba0038421ab50e9ae56a90)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-08-17 18:08:339 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[EdgeDriver: msedge on WINDOWS (af6817db8c72c6948d867c6fbf356826)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-17 18:08:275 INFO  OnlineSlotsPage :25 - Getting text from : [[EdgeDriver: msedge on WINDOWS (af6817db8c72c6948d867c6fbf356826)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
